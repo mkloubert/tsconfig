@@ -4,8 +4,6 @@
 
 # @marcelkloubert/tsconfig
 
-[![npm](https://img.shields.io/npm/v/@marcelkloubert/tsconfig.svg)](https://www.npmjs.com/package/@marcelkloubert/tsconfig)
-
 Shared [TypeScript](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) config files, which can be used by anyone.
 
 ## Install
