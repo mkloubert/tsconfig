@@ -1,0 +1,28 @@
+{
+  "name": "@marcelkloubert/tsconfig",
+  "version": "0.1.0",
+  "description": "Personal tsconfig.json, which can be used by anyone.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkloubert/tsconfig.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://marcel.coffee/"
+  },
+  "author": "Marcel Joachim Kloubert",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "marcel kloubert",
+    "config",
+    "configuration",
+    "ts",
+    "tsc",
+    "tsconfig",
+    "typescript"
+  ]
+}
